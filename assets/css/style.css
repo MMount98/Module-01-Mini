@@ -1,0 +1,43 @@
+* {
+  font-family: "Teko", "Times New Roman", Times, serif;
+}
+
+header {
+  border: 5px solid black;
+  box-shadow: 0 0 50px;
+  background-color: black;
+}
+
+header h1 {
+  position: relative;
+  left: 25px;
+  color: white;
+}
+
+nav ul li {
+  display: inline;
+  position: relative;
+  left: 1100px;
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+img {
+  display: block;
+  width: 200px;
+  height: 200px;
+}
+footer {
+  border: 5px solid black;
+  box-shadow: 0 0 50px;
+  background-color: black;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+}
